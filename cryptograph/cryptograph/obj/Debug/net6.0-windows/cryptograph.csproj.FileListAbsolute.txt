@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\cryptograph\cryptograph\bin\Debug\net6.0-windows\cryptograph.exe
+C:\Users\user\source\repos\cryptograph\cryptograph\bin\Debug\net6.0-windows\cryptograph.deps.json
+C:\Users\user\source\repos\cryptograph\cryptograph\bin\Debug\net6.0-windows\cryptograph.runtimeconfig.json
+C:\Users\user\source\repos\cryptograph\cryptograph\bin\Debug\net6.0-windows\cryptograph.dll
+C:\Users\user\source\repos\cryptograph\cryptograph\bin\Debug\net6.0-windows\cryptograph.pdb
+C:\Users\user\source\repos\cryptograph\cryptograph\obj\Debug\net6.0-windows\cryptograph.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\cryptograph\cryptograph\obj\Debug\net6.0-windows\cryptograph.Form1.resources
+C:\Users\user\source\repos\cryptograph\cryptograph\obj\Debug\net6.0-windows\cryptograph.csproj.GenerateResource.cache
+C:\Users\user\source\repos\cryptograph\cryptograph\obj\Debug\net6.0-windows\cryptograph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\cryptograph\cryptograph\obj\Debug\net6.0-windows\cryptograph.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\cryptograph\cryptograph\obj\Debug\net6.0-windows\cryptograph.AssemblyInfo.cs
+C:\Users\user\source\repos\cryptograph\cryptograph\obj\Debug\net6.0-windows\cryptograph.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\cryptograph\cryptograph\obj\Debug\net6.0-windows\cryptograph.dll
+C:\Users\user\source\repos\cryptograph\cryptograph\obj\Debug\net6.0-windows\refint\cryptograph.dll
+C:\Users\user\source\repos\cryptograph\cryptograph\obj\Debug\net6.0-windows\cryptograph.pdb
+C:\Users\user\source\repos\cryptograph\cryptograph\obj\Debug\net6.0-windows\cryptograph.genruntimeconfig.cache
+C:\Users\user\source\repos\cryptograph\cryptograph\obj\Debug\net6.0-windows\ref\cryptograph.dll
